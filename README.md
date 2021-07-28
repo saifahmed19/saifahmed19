@@ -46,7 +46,7 @@
 
 ---
 
-[![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifahmed19)]
+![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifahmed19)
 
 
 
