@@ -1,6 +1,6 @@
 ### Hi, I'm Saif Ahmed Khan
 
-[<img align="left" alt="Python" width="100%" src="https://wallpapercave.com/wp/wp6222547.png" />]
+<img align="left" alt="top" width="500px" height="300px"  src="https://wallpapercave.com/wp/wp6222547.png" />
 
 ## I'm a Full-Stack Developer!!
 
