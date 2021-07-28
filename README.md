@@ -24,7 +24,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VScode]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
+[<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][GitHub]
 [<img align="left" alt="GitHub" width="26px" src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" />][IBMcloud]
 
 <br />
@@ -34,8 +34,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="linkprofile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="hackerporfile; | Hackerrank" width="22px" src="https://img.icons8.com/windows/452/hackerrank.png" />][Hackerrank]
+[<img align="left" alt="linkprofile | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][LinkedIn]
+[<img align="left" alt="hackerporfile; | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][Hackerrank]
 [<img align="left" alt="saif.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 
 <br />
@@ -46,7 +46,7 @@
 
 
 
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifahmed19)
+![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifahmed19&show_icons=true&hide_border=true&theme=tokyonight)
 
 
 
