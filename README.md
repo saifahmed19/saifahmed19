@@ -30,8 +30,8 @@
 <br />
 <br />
 
----
-<br/>
+
+
 ### Connect with me:
 
 [<img align="left" alt="linkprofile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
@@ -41,14 +41,13 @@
 <br />
 <br />
 
----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=saifahmed19&show_icons=true&hide_border=true" />
 
-</details>
+
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https:/github-readme-stats.codestackr.vercel.app/api?username=saifahmed19show_icons=true&hide_border=true" />
+
 
 
 
