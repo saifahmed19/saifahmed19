@@ -28,7 +28,10 @@
 [<img align="left" alt="GitHub" width="26px" src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" />][IBMcloud]
 
 <br />
+<br />
 
+---
+<br/>
 ### Connect with me:
 
 [<img align="left" alt="linkprofile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
@@ -36,8 +39,16 @@
 [<img align="left" alt="saif.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 
 <br />
+<br />
 
 ---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=saifahmed19&show_icons=true&hide_border=true" />
+
+</details>
 
 
 
