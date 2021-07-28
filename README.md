@@ -46,7 +46,9 @@
 
 ---
 
-<img align="left" alt="Saif's GitHub Stats" src="https:/github-readme-stats.vercel.app/api?username=saifahmed19&show_icons=true&hide_border=true" />
+[![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifahmed19)]
+
+
 
 
 
