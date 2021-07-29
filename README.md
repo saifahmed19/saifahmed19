@@ -19,8 +19,9 @@
 <br>
 <br>
 <br>
+
 ### Languages and Tools: 
----
+
 
 
 
@@ -42,7 +43,7 @@
 
 
 ### Connect with me: 
----
+
 
 
 [<img align="left" alt="linkprofile | LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][LinkedIn]
