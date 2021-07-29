@@ -21,34 +21,34 @@
 <br>
 <br>
 
-<h3 align="center"> Languages and Tools: </h3>
-<hr>
+<h3 align="left"> Languages and Tools: </h3>
 
 
-[<img align="center" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][Python]
-[<img align="center" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][C]
-[<img align="center" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/cpp@0.0.1/cpp_256x256.png" />][C++]
-[<img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
-[<img align="center" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
-[<img align="center" alt="BootStrap" width="26px" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" />][BootStrap]
-[<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
-[<img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
-[<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VScode]
-[<img align="center" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][GitHub]
-[<img align="center" alt="GitHub" width="26px" src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" />][IBMcloud]
+
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][Python]
+[<img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][C]
+[<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/cpp@0.0.1/cpp_256x256.png" />][C++]
+[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
+[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
+[<img align="left" alt="BootStrap" width="30px" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" />][BootStrap]
+[<img align="left" alt="JavaScript" width=30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
+[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Node]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VScode]
+[<img align="left" alt="GitHub" width="30px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][GitHub]
+[<img align="left" alt="GitHub" width="30px" src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" />][IBMcloud]
 
 <br />
 <br />
 
 
 
-<h3 align="center"> Connect with me: </h3>
-<hr>
+<h3 align="left"> Connect with me: </h3>
 
-[<img align="center" alt="linkprofile | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][LinkedIn]
-[<img align="center" alt="hackerporfile; | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][Hackerrank]
-[<img align="center" alt="saif.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
-[<img align="center" alt="instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][Insta]
+
+[<img align="left" alt="linkprofile | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][LinkedIn]
+[<img align="left" alt="hackerporfile; | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][Hackerrank]
+[<img align="left" alt="saif.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
+[<img align="left" alt="instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][Insta]
 
 <br />
 <br />
