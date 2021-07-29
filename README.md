@@ -7,7 +7,7 @@
 ##### I'm a Full-Stack Developer!!
 
 - 🔭 I’m currently working on my Web app.
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning ReactJs and NoSql.
 - 🎮 Gamer!
 - 📫 Contact me saifahmedkhan19@gmail.com
 
