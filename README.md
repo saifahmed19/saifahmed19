@@ -12,8 +12,10 @@
 - 📫 Contact me saifahmedkhan19@gmail.com
 
 
-<br />
+
 <img align="left" alt="top" width="490px" height="250px"  src="https://wallpapercave.com/wp/wp6222547.png" />
+
+<br/>
 
 ### Languages and Tools:
 
