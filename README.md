@@ -1,6 +1,8 @@
-## Hi, I'm Saif Ahmed Khan
+<h2 align ="center"> Hi, I'm Saif Ahmed Khan </h2>
 
+ <img align="right" alt="GIF" src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47i3tiu58ubofa65uuxqgw7u8o2szldpb25qarng2u&rid=giphy.gif&ct=g" width="400" height="320" />
 
+<br>
 
 ##### I'm a Full-Stack Developer!!
 
@@ -49,6 +51,8 @@
 ![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifahmed19&show_icons=true&hide_border=true&theme=tokyonight)
 
 <br/>
+
+ <img align="right" alt="GIF" src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47i3tiu58ubofa65uuxqgw7u8o2szldpb25qarng2u&rid=giphy.gif&ct=g" width="400" height="320" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifahmed19&layout=compact&hide_border=true&theme=tokyonight)
 
