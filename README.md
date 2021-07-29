@@ -12,9 +12,11 @@
 - 📫 Contact me saifahmedkhan19@gmail.com
 
 
-<br />
+<br>
+<br>
+<br>
 
-### Languages and Tools:
+<h3 align="center"> Languages and Tools: </h3>
 
 
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][Python]
@@ -34,7 +36,7 @@
 
 
 
-### Connect with me:
+<h3 align="center"> Connect with me: </h3>
 
 [<img align="left" alt="linkprofile | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][LinkedIn]
 [<img align="left" alt="hackerporfile; | Hackerrank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][Hackerrank]
