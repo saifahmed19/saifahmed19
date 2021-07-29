@@ -22,7 +22,7 @@
 <br>
 
 <h3 align="center"> Languages and Tools: </h3>
-<hr border-top: 1px solid>
+<hr border-top: 1px solid></hr>
 
 
 [<img align="center" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />][Python]
