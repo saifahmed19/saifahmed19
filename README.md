@@ -1,4 +1,4 @@
-<h1 align ="center"> Hi, I'm Saif Ahmed Khan </h1>
+<h1 align ="center"> Hi 👋, I'm Saif Ahmed Khan </h1>
 
  <img align="right" alt="GIF" src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47i3tiu58ubofa65uuxqgw7u8o2szldpb25qarng2u&rid=giphy.gif&ct=g" width="400" height="320" />
 
