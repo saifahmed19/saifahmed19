@@ -1,7 +1,7 @@
 ### Hi, I'm Saif Ahmed Khan
 
 
-<img align="right" alt="top" width="490px" height="250px"  src="https://wallpapercave.com/wp/wp6222547.png" />
+<img align="right" alt="top" width="450px" height="200px"  src="https://wallpapercave.com/wp/wp6222547.png" />
 <br/>
 
 ## I'm a Full-Stack Developer!!
