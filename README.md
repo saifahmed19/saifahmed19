@@ -48,6 +48,13 @@
 
 ![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifahmed19&show_icons=true&hide_border=true&theme=tokyonight)
 
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifahmed19&layout=compact)
+
+
+
+
 
 
 
