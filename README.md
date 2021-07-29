@@ -19,7 +19,8 @@
 <br>
 <br>
 <br>
-<h3 align="left"> Languages and Tools: </h3>
+### Languages and Tools: 
+---
 
 
 
@@ -40,7 +41,8 @@
 
 
 
-<h3 align="left"> Connect with me: </h3>
+### Connect with me: 
+---
 
 
 [<img align="left" alt="linkprofile | LinkedIn" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />][LinkedIn]
