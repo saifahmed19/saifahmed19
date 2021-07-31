@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning ReactJs and NoSql.
 - 🎮 Gamer!
 - 📫 Contact me saifahmedkhan19@gmail.com
-
+- 😄 Pronouns: he/him
 
 <br>
 <br>
