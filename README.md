@@ -35,7 +35,7 @@
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][JS]
 [<img align="left" alt="GitHub" width="32px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][GitHub]
 [<img align="left" alt="ibm" width="32px" src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" />][IBMcloud]
-[<img align="left" alt="BootStrap" width="32px" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png" />][BootStrap]
+[<img align="left" alt="BootStrap" width="32px" src="![image](https://user-images.githubusercontent.com/42868166/134531099-6b8bc5b8-c4a9-483f-9c5b-c0b7ea5f88a0.png)" />][BootStrap]
 <br>
 <br>
 
